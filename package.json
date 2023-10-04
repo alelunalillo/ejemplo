@@ -1,0 +1,12 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "Esto es  el primer ejercio en node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  
+  "author": "Alejandro",
+  "license": "ISC"
+}
