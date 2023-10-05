@@ -4,7 +4,7 @@
   "description": "Esto es  el primer ejercio en node.js",
   "main": "app.js",
   "scripts": {
-    "start": "app.js"
+    "start": "node app.js"
   },
   
   "author": "Alejandro",
