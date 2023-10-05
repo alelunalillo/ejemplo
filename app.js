@@ -6,8 +6,8 @@ app.get('/', function (req, res){
    res.sendFile(path.resolve(__dirname, 'Inicio.html'))
 })
 
-app.get('/', function (req, res){
-res.send('Hola mundo')
-})
+//app.get('/', function (req, res){
+//res.send('Hola mundo')
+//})
 
 app.listen(3000)
