@@ -1,5 +1,5 @@
 {
-  "name": "ejemplo",
+  "name": "clasesEjemplo",
   "version": "1.0.0",
   "description": "Esto es  el primer ejercio en node.js",
   "main": "app.js",
